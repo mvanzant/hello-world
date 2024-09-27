@@ -10,17 +10,17 @@ I am a 4th year student at the University of Iowa. I am majoring in Business Ana
 *In this repository we are practicing using different tools*
 ### How to Run Program
 This section would explain the instructions 
-#### Files Used
+### Files Used
 
 - We can use bullets
 - To make unordered lists
 - you can see my linkedIn [here](https://www.linkedin.com/in/madilynvz)
 
-##### Additional Documentation
+### Additional Documentation
 
 Add any other needed information here
 
-###### Versioning
+#### Versioning
 
 This is the first version of my my edits
 
